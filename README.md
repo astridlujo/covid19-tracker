@@ -19,9 +19,9 @@ For this project I used:
 - Numeral.js, to sort and display the numbers.
 - Used the disease.sh free COVID-19 API to retrieve all the data.
 
-# Getting Started with Create React App
+You can see how the app works by refereing to Covid19 Tracker View.png file which is a screenshot of the app
 
-You can acess this project through GitHub pages at: https://astridlujo.github.io/covid19-tracker/
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
