@@ -1,6 +1,6 @@
 # Covid-19 Tracker App (REACT)
 
-This Project is a beginner friendly project I built using React. Some key Aspects are:
+This Project is a React native application. Some key Aspects of it are:
 
 - Shows live Cases, Recoveries, Deaths (clickable tabs)
 - Shows Worldwide cases and Country Based cases
